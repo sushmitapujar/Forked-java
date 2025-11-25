@@ -5,4 +5,4 @@ To compile- javac Test.java
 To run- java Test.java
 
 Follow these steps to run java projects
-Hello all how are you doing ?
+take care
