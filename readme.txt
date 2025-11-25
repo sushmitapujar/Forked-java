@@ -5,7 +5,3 @@ To compile- javac Test.java
 To run- java Test.java
 
 Follow these steps to run java projects
-
-happy vacation
-Happy journey
-Hello everyone 
